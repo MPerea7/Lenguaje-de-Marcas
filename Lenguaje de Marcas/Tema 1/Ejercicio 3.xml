@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Ej3>
+<Ej3>
+    <mensaje>
+    <remite>
+         <nombre>Alfredo Reino</nombre>
+         <email>alf@ibium.com</email>
+    </remite>
+    <destinatario>
+         <nombre>Bil Clinton</nombre>
+         <email>alf@ibium.com</email>
+    </destinatario>
+    <asunto texto="Hola Bill">
+    </asunto>
+    <texto>
+        <parrafo>
+        ¿Hola qué tal?
+        </parrafo>
+        <parrafo>
+        Hace mucho tiempo que no escribes. A ver si llamas y quedamos pronto.
+        </parrafo>
+        <parrafo>
+        Un saludo.
+        </parrafo>
+
+    </texto>
+    </mensaje>
+</Ej3>
