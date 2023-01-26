@@ -1,0 +1,34 @@
+Por ahora los estilos que estan definidos son estos.
+
+/* Body */
+
+En el cuerpo del html solo se ha coloreado el fondo.
+
+/* Headers */
+
+En los titulos se ha coloreado las letras con el comando 
+color, y el tamaño con font-size.
+
+/* HR (Hard Rule = line) */
+
+En el hr cambio de temas se ha realizado 
+un estilo de color de letra
+
+/* Paragraphs */
+
+En los paragrafos se ha elegido el tamaño de la letra,
+en margen a la izquierda, y un selector combinado con una 
+clase que es "verse", que esta clase se ha coloreado la letra
+de color marron, y un espacio entre el marger a la izquierda
+de 60px.
+
+/* Links */
+
+En los link se han utilizado los pseudoselectores al atributo es a.
+a:link, los links apareceras en el color de la verde.
+a:visited, y has visitado la pagina del link aparecera en en 
+amarillo 
+a:hover, al pasar el raton por encima se pone la letra en negro .
+a:active, este pseudonimo sirve que cuando el link que hayas clicado 
+este activo se pondra de color azul con las sintaxis color como en 
+todos los links.

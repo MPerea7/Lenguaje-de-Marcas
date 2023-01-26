@@ -1,0 +1,4 @@
+Esta de difente color por que esta en una clase diferente a los parrafos,
+que es la clase de comentario que esta en definida en el archivo estilos.css, 
+por lo que por defecto en color a lo asignarselo ni definirlo se pondra en negro
+no como en la clase verse que esta definido aqui "p.verse {color:maroon; margin-left: 60px}".
