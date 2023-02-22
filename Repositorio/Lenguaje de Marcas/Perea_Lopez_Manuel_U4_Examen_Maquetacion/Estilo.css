@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+}
+header>h1{
+    float:left ;
+    margin-right: 10px;
+}
+
+.logo{
+    width: 10%;
+    float: left;
+}
+#This{
+    color:darkblue;
+    float: left;
+    position: relative;
+}
+
+span {
+    color:green;
+}
+
+
+
+#contacto{
+    position: relative;
+    float:right;
+}
+
+#contacto>ul>li {
+    list-style: none;
+    display: inline-block;
+}
+
+#contacto>ul>img {
+    float: left;
+    position: relative;
+    width: 25%;
+
+}
+.menu{
+    float: left;
+    background-color:#303030;
+    width: 100%;
+    margin-bottom: 10PX;
+}
+.menu ul a{
+    float: left;
+    display: inline-block;
+    list-style: none;
+    color:white;
+    margin-left: 20px;
+    border-right: 1px solid white;
+    height: 85%;
+    margin-bottom: 10px;
+
+}
+
+
+.menu>form{
+    display: inline-block;
+    list-style: none;
+    color:white;
+    float:right;
+    height: 15%;
+}
+
+main>img{
+    width: 100%;
+}
+
+.ventana{
+    background-color: #303030;
+    position: absolute;
+    height: 33%;
+    top:900px;
+    display: block;
+    width: 25%;
+    padding: 15px;
+}
+
+#flechas{
+    background-color: red;
+    background-color: transparent;
+}
+form{
+    height: 10px;
+    float:right;
+    position: relative;
+}
+
+form>input{
+    display: none;
+}
+
+form>img{
+    margin-right: 20px;
+}
+
+
+footer{
+    position: relative;
+}
+
+.cajas{
+    display: flex;
+    float:left;
+    width: 33%;
+}
+
+.cajas img {
+    float: left;
+    margin-top: 10px;
+}
+
