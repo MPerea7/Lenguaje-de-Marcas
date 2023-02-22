@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+    padding: 0 auto;
+    
+}
+
+.container{
+    box-sizing: border-box;
+    
+}
+
+header{
+    position: relative;
+    background-color: #394030;
+    padding: 25px;
+    color:white;
+    text-align: center;
+    height: 230px;
+    box-shadow: 0px 2px 10px black;
+}
+
+header>img {
+    height:150px;
+    float:left;
+    padding-left: 25px;
+}
+
+header>h1{
+    font-size:50px;
+    margin-top: auto;
+
+}
+
+header>p {
+    position: relative;
+    padding-left: 175px;
+    bottom: 25px;
+    font-size:20px;
+}
+
+.Fondo{
+    background-color: #BA9561;
+    display: flex;
+    height: 725px ;
+
+}
+
+.caja1 {
+    width:50%;
+    margin: 0 auto;
+}
+
+.cuerpo>p,h2 {
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+div>img{
+    height: 300px;
+    padding: 15px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+.Formulario {
+    font-size: 20px;
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 50px;
+    float: right;
+    position: relative;    
+    margin: 0 auto;
+}
+
+.Entrada {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-align: center;
+    background-color: #394030;
+    display: inline-block;
+    color:white;
+    padding: 20px;
+    box-shadow: 0px 1px 1px black;
+}
+
+.Informacion {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 19px;
+    padding-top: 10px;
+    background-color:#BBBBBB;
+    width: 332px;
+}
